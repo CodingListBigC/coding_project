@@ -1,6 +1,119 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="24.7.6">
-  <diagram name="Page-1" id="pff4yrJfmfc3CuVSVgg3">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14816.131.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="24.7.6" pages="4">
+  <diagram name="Main" id="pff4yrJfmfc3CuVSVgg3">
+    <mxGraphModel dx="359" dy="211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nvWWQa6RcMC76ZwQo1N-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1nvWWQa6RcMC76ZwQo1N-2" value="Music Maker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ofebp2djR80_j9sz0n7j-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="1nvWWQa6RcMC76ZwQo1N-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539.9999999999999" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nvWWQa6RcMC76ZwQo1N-4" value="Create New" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="305" y="100" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1nvWWQa6RcMC76ZwQo1N-5" value="Open" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="305" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ofebp2djR80_j9sz0n7j-3" value="Goes to Create page" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="105" width="100" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SB-XdM9pEWNcnNquBrKg" name="Create">
+    <mxGraphModel dx="677" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x9n0qIWtudTfgerfp115-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="240" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-2" value="Music Maker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=30;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Create&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-4" value="" style="swimlane;startSize=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-5" value="Name" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-4">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-6" value="_____________________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-4">
+          <mxGeometry x="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-7" value="" style="swimlane;startSize=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-8" value="Beats per Measure" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-7">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-9" value="_____________________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-7">
+          <mxGeometry x="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-10" value="" style="swimlane;startSize=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-11" value="_____________________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-10">
+          <mxGeometry x="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-12" value="Tempo" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="x9n0qIWtudTfgerfp115-10">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x9n0qIWtudTfgerfp115-13" value="Create" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#808080;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DAXxZNgt8gi9WlydEBbJ" name="Open">
+    <mxGraphModel dx="652" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#000099;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="240" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-2" value="Music Maker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;fontSize=30;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Open&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-4" value="" style="swimlane;startSize=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-5" value="File Name" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="YTnwZPyHi3EPciYfkcWD-4">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-6" value="_____________________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="YTnwZPyHi3EPciYfkcWD-4">
+          <mxGeometry x="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-7" value="" style="swimlane;startSize=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-8" value="Directory" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="YTnwZPyHi3EPciYfkcWD-7">
+          <mxGeometry width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-9" value="_____________________" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="YTnwZPyHi3EPciYfkcWD-7">
+          <mxGeometry x="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YTnwZPyHi3EPciYfkcWD-13" value="Open" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0m8iXZr2rR9y2Tnir3VY" name="Page-4">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
